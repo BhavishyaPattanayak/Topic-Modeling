@@ -49,7 +49,7 @@ pip install numpy pandas scikit-learn nltk gensim matplotlib seaborn
 Follow the instructions in the notebook to perform topic modeling on your dataset. Ensure your dataset is in the correct format as required by the notebook.
 
 ### Results
-The notebook provides both quantitative and qualitative evaluation of the topic models, including visualizations to help interpret the results.
+The notebook provides both qualitative and quantitative evaluation of the topic models, including visualizations to help interpret the results.
 
 ### Acknowledgements:
 1. The gensim library for topic modeling.
