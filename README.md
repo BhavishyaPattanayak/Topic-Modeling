@@ -33,10 +33,10 @@ Make sure you have the following packages installed:
 
 - `numpy`
 - `pandas`
+- `matplotlib`
 - `scikit-learn`
 - `nltk`
 - `gensim`
-- `matplotlib`
 - `seaborn`
 
 You can install these packages using `pip`:
